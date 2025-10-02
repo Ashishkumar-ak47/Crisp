@@ -9,7 +9,7 @@ A React + Vite SPA with an Express server that runs a fully local AI-style inter
 - Full local persistence (refresh-safe) and Welcome Back resume modal
 
 ## Live Preview
-- Use the app root for the Interviewee tab and `/interviewer` for the dashboard.
+- https://68de4b5e831060d1e9e1b88a--crispaiv1.netlify.app/
 
 ## Getting Started
 - pnpm dev
@@ -24,7 +24,7 @@ A React + Vite SPA with an Express server that runs a fully local AI-style inter
 - Animated, responsive UI built with Tailwind and shadcn primitives
 
 ## Deploy
-- Connect Netlify or Vercel MCP in Builder.io to deploy.
+- deployed on netlify
 
 ## Notes
 - Data is stored in localStorage on the device; no backend data persistence is used.
